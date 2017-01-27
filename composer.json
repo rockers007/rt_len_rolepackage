@@ -1,0 +1,16 @@
+{
+    "name": "module/roles",
+    "description": "Roles module depandency on user module",
+    "type": "MIT",
+    "require": {
+        "rockers/mydate": "dev-master"
+    },
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Rockers Technologies",
+            "email": "jaimin.rockersinfo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
